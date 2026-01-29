@@ -23,3 +23,5 @@ from data cleaning and exploration to modeling, evaluation, and insights.
 
 ---
 
+## License
+This repository is licensed under the [MIT License](LICENSE).
