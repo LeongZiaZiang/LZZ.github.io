@@ -1,2 +1,2 @@
 # LZZ.github.io
-Data Analysis related projects
+Data Science and Business Analytics related projects
